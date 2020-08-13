@@ -9,6 +9,9 @@
 
 
     function primary_school_features() {
+        register_nav_menu('headerMenuLocation', 'Header Menu Location');
+        register_nav_menu('footerLinksOne', 'Footer Location Links One');
+        register_nav_menu('footerLinksTwo', 'Footer Location Links Two');
         add_theme_support('title-tag');
     }
     add_action('after_setup_theme', 'primary_school_features');
