@@ -1,0 +1,4 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using Apple-Macintosh-2.local. Set the 'ServerName' directive globally to suppress this message
+[Wed Aug 12 23:15:09.522064 2020] [mpm_event:notice] [pid 85219:tid 4710227392] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed Aug 12 23:15:09.522457 2020] [core:notice] [pid 85219:tid 4710227392] AH00094: Command line: '/Users/ecosync/Library/Application Support/Local/lightning-services/apache-2.4.43+6/bin/darwin/bin/httpd -D FOREGROUND -f /Users/ecosync/Library/Application Support/Local/run/6L9wNXPDZ/conf/apache/apache2.conf'
+[Wed Aug 12 23:19:52.718673 2020] [mpm_event:notice] [pid 85219:tid 4710227392] AH00491: caught SIGTERM, shutting down
