@@ -78,3 +78,22 @@ Stack trace:
 #2 /Users/ecosync/Local Sites/i-aun-school/app/public/index.php(17): require('/Users/ecosync/...')
 #3 {main}
   thrown in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/archive.php on line 12
+[14-Aug-2020 04:28:14 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/front-page.php on line 34
+[14-Aug-2020 05:28:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_type_archive_link() in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/header.php:28
+Stack trace:
+#0 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template.php(730): require_once()
+#1 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template.php(676): load_template('/Users/ecosync/...', true, Array)
+#2 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/archive-event.php(1): get_header()
+#4 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php(106): include('/Users/ecosync/...')
+#5 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php(19): require_once('/Users/ecosync/...')
+#6 /Users/ecosync/Local Sites/i-aun-school/app/public/index.php(17): require('/Users/ecosync/...')
+#7 {main}
+  thrown in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/header.php on line 28
+[14-Aug-2020 06:35:19 UTC] PHP Parse error:  syntax error, unexpected '&', expecting end of file in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/front-page.php on line 19
+[14-Aug-2020 09:37:00 UTC] PHP Warning:  Use of undefined constant get - assumed 'get' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page-past-events.php on line 79
+[14-Aug-2020 09:37:00 UTC] PHP Stack trace:
+[14-Aug-2020 09:37:00 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[14-Aug-2020 09:37:00 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[14-Aug-2020 09:37:00 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[14-Aug-2020 09:37:00 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
