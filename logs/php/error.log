@@ -283,3 +283,859 @@ Stack trace:
   thrown in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/single-teacher.php on line 21
 [17-Aug-2020 13:43:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/single-program.php on line 57
 [17-Aug-2020 13:43:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/single-program.php on line 57
+[18-Aug-2020 08:35:15 UTC] PHP Parse error:  syntax error, unexpected ')' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:37:03 UTC] PHP Parse error:  syntax error, unexpected ';' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 5
+[18-Aug-2020 08:37:04 UTC] PHP Parse error:  syntax error, unexpected ';' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 5
+[18-Aug-2020 08:37:16 UTC] PHP Parse error:  syntax error, unexpected ';' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 5
+[18-Aug-2020 08:39:05 UTC] PHP Parse error:  syntax error, unexpected '?>' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 7
+[18-Aug-2020 08:39:06 UTC] PHP Parse error:  syntax error, unexpected '?>' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 7
+[18-Aug-2020 08:39:17 UTC] PHP Parse error:  syntax error, unexpected '?>' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 7
+[18-Aug-2020 08:39:44 UTC] PHP Parse error:  syntax error, unexpected ';' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 5
+[18-Aug-2020 08:41:12 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:41:12 UTC] PHP Stack trace:
+[18-Aug-2020 08:41:12 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:41:12 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:41:12 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:41:12 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:41:12 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:41:12 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:41:12 UTC] PHP Stack trace:
+[18-Aug-2020 08:41:12 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:41:12 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:41:12 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:41:12 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:41:12 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:41:24 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:41:24 UTC] PHP Stack trace:
+[18-Aug-2020 08:41:24 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:41:24 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:41:24 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:41:24 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:41:24 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:41:24 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:41:24 UTC] PHP Stack trace:
+[18-Aug-2020 08:41:24 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:41:24 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:41:24 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:41:24 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:41:24 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:42:03 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:42:03 UTC] PHP Stack trace:
+[18-Aug-2020 08:42:03 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:42:03 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:42:03 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:42:03 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:42:03 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:42:03 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:42:03 UTC] PHP Stack trace:
+[18-Aug-2020 08:42:03 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:42:03 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:42:03 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:42:03 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:42:03 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:42:05 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:42:05 UTC] PHP Stack trace:
+[18-Aug-2020 08:42:05 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:42:05 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:42:05 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:42:05 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:42:05 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:42:05 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:42:05 UTC] PHP Stack trace:
+[18-Aug-2020 08:42:05 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:42:05 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:42:05 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:42:05 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:42:05 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:42:06 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:42:06 UTC] PHP Stack trace:
+[18-Aug-2020 08:42:06 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:42:06 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:42:06 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:42:06 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:42:06 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:42:06 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:42:06 UTC] PHP Stack trace:
+[18-Aug-2020 08:42:06 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:42:06 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:42:06 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:42:06 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:42:06 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:42:09 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:42:09 UTC] PHP Stack trace:
+[18-Aug-2020 08:42:09 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:42:09 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:42:09 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:42:09 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:42:09 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:42:09 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:42:09 UTC] PHP Stack trace:
+[18-Aug-2020 08:42:09 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:42:09 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:42:09 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:42:09 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:42:09 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:42:29 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:42:29 UTC] PHP Stack trace:
+[18-Aug-2020 08:42:29 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:42:29 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:42:29 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:42:29 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:42:29 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:42:29 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:42:29 UTC] PHP Stack trace:
+[18-Aug-2020 08:42:29 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:42:29 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:42:29 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:42:29 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:42:29 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:42:30 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:42:30 UTC] PHP Stack trace:
+[18-Aug-2020 08:42:30 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:42:30 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:42:30 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:42:30 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:42:30 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:42:30 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:42:30 UTC] PHP Stack trace:
+[18-Aug-2020 08:42:30 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:42:30 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:42:30 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:42:30 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:42:30 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:42:31 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:42:31 UTC] PHP Stack trace:
+[18-Aug-2020 08:42:31 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:42:31 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:42:31 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:42:31 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:42:31 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:42:31 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:42:31 UTC] PHP Stack trace:
+[18-Aug-2020 08:42:31 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:42:31 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:42:31 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:42:31 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:42:31 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:43:53 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:43:53 UTC] PHP Stack trace:
+[18-Aug-2020 08:43:53 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:43:53 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:43:53 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:43:53 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:43:53 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:43:53 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:43:53 UTC] PHP Stack trace:
+[18-Aug-2020 08:43:53 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:43:53 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:43:53 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:43:53 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:43:53 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:43:54 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:43:54 UTC] PHP Stack trace:
+[18-Aug-2020 08:43:54 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:43:54 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:43:54 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:43:54 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:43:54 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:43:54 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:43:54 UTC] PHP Stack trace:
+[18-Aug-2020 08:43:54 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:43:54 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:43:54 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:43:54 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:43:54 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:43:58 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:43:58 UTC] PHP Stack trace:
+[18-Aug-2020 08:43:58 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:43:58 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:43:58 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:43:58 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:43:58 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:43:58 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:43:58 UTC] PHP Stack trace:
+[18-Aug-2020 08:43:58 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:43:58 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:43:58 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:43:58 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:43:58 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:45:03 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:45:03 UTC] PHP Stack trace:
+[18-Aug-2020 08:45:03 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:45:03 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:45:03 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:45:03 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:45:03 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:45:03 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:45:03 UTC] PHP Stack trace:
+[18-Aug-2020 08:45:03 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:45:03 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:45:03 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:45:03 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:45:03 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:45:06 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:45:06 UTC] PHP Stack trace:
+[18-Aug-2020 08:45:06 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:45:06 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:45:06 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:45:06 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:45:06 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:45:06 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:45:06 UTC] PHP Stack trace:
+[18-Aug-2020 08:45:06 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:45:06 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:45:06 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:45:06 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:45:06 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:45:34 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:45:34 UTC] PHP Stack trace:
+[18-Aug-2020 08:45:34 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:45:34 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:45:34 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:45:34 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:45:34 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:45:34 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:45:34 UTC] PHP Stack trace:
+[18-Aug-2020 08:45:34 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:45:34 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:45:34 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:45:34 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:45:34 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:53:09 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:53:09 UTC] PHP Stack trace:
+[18-Aug-2020 08:53:09 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:53:09 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:53:09 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:53:09 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:53:09 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:53:09 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:53:09 UTC] PHP Stack trace:
+[18-Aug-2020 08:53:09 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:53:09 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:53:09 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:53:09 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:53:09 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:54:01 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:54:01 UTC] PHP Stack trace:
+[18-Aug-2020 08:54:01 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:54:01 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:54:01 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:54:01 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:54:01 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:54:01 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:54:01 UTC] PHP Stack trace:
+[18-Aug-2020 08:54:01 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:54:01 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:54:01 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:54:01 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:54:01 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:54:08 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:54:08 UTC] PHP Stack trace:
+[18-Aug-2020 08:54:08 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:54:08 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:54:08 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:54:08 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:54:08 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:54:08 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:54:08 UTC] PHP Stack trace:
+[18-Aug-2020 08:54:08 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:54:08 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:54:08 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:54:08 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:54:08 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:54:14 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:54:14 UTC] PHP Stack trace:
+[18-Aug-2020 08:54:14 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:54:14 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:54:14 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:54:14 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:54:14 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:54:14 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:54:14 UTC] PHP Stack trace:
+[18-Aug-2020 08:54:14 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:54:14 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:54:14 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:54:14 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:54:14 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:54:15 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:54:15 UTC] PHP Stack trace:
+[18-Aug-2020 08:54:15 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:54:15 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:54:15 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:54:15 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:54:15 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:54:15 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:54:15 UTC] PHP Stack trace:
+[18-Aug-2020 08:54:15 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:54:15 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:54:15 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:54:15 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:54:15 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:55:09 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:55:09 UTC] PHP Stack trace:
+[18-Aug-2020 08:55:09 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:55:09 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:55:09 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:55:09 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:55:09 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:55:09 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:55:09 UTC] PHP Stack trace:
+[18-Aug-2020 08:55:09 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:55:09 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:55:09 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:55:09 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:55:09 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:55:27 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:55:27 UTC] PHP Stack trace:
+[18-Aug-2020 08:55:27 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:55:27 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:55:27 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:55:27 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:55:27 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:55:27 UTC] PHP Warning:  Illegal string offset 'maintitle' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:55:27 UTC] PHP Stack trace:
+[18-Aug-2020 08:55:27 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:55:27 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:55:27 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:55:27 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:55:27 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:55:29 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:55:29 UTC] PHP Stack trace:
+[18-Aug-2020 08:55:29 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:55:29 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:55:29 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:55:29 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:55:29 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:55:29 UTC] PHP Warning:  Illegal string offset 'maintitle' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:55:29 UTC] PHP Stack trace:
+[18-Aug-2020 08:55:29 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:55:29 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:55:29 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:55:29 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:55:29 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:57:03 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:57:03 UTC] PHP Stack trace:
+[18-Aug-2020 08:57:03 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:57:03 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:57:03 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:57:03 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:57:03 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:57:03 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:57:03 UTC] PHP Stack trace:
+[18-Aug-2020 08:57:03 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:57:03 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:57:03 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:57:03 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:57:03 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:57:06 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:57:06 UTC] PHP Stack trace:
+[18-Aug-2020 08:57:06 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:57:06 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:57:06 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:57:06 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:57:06 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:57:06 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:57:06 UTC] PHP Stack trace:
+[18-Aug-2020 08:57:06 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:57:06 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:57:06 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:57:06 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:57:06 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:57:08 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:57:08 UTC] PHP Stack trace:
+[18-Aug-2020 08:57:08 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:57:08 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:57:08 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:57:08 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:57:08 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:57:08 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:57:08 UTC] PHP Stack trace:
+[18-Aug-2020 08:57:08 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:57:08 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:57:08 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:57:08 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:57:08 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:57:37 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:57:37 UTC] PHP Stack trace:
+[18-Aug-2020 08:57:37 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:57:37 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:57:37 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:57:37 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:57:37 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:57:37 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:57:37 UTC] PHP Stack trace:
+[18-Aug-2020 08:57:37 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:57:37 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:57:37 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:57:37 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:57:37 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:57:40 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:57:40 UTC] PHP Stack trace:
+[18-Aug-2020 08:57:40 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:57:40 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:57:40 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:57:40 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:57:40 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:57:40 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:57:40 UTC] PHP Stack trace:
+[18-Aug-2020 08:57:40 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:57:40 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:57:40 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:57:40 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:57:40 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:58:16 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:58:16 UTC] PHP Stack trace:
+[18-Aug-2020 08:58:16 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:58:16 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:58:16 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:58:16 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:58:16 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:58:16 UTC] PHP Warning:  Use of undefined constant title - assumed 'title' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:58:16 UTC] PHP Stack trace:
+[18-Aug-2020 08:58:16 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:58:16 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:58:16 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:58:16 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:58:16 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:58:16 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:58:16 UTC] PHP Stack trace:
+[18-Aug-2020 08:58:16 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:58:16 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:58:16 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:58:16 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:58:16 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:58:16 UTC] PHP Warning:  Use of undefined constant title - assumed 'title' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 12
+[18-Aug-2020 08:58:16 UTC] PHP Stack trace:
+[18-Aug-2020 08:58:16 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:58:16 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:58:16 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:58:16 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:58:16 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:58:18 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:58:18 UTC] PHP Stack trace:
+[18-Aug-2020 08:58:18 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:58:18 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:58:18 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:58:18 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:58:18 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:58:18 UTC] PHP Warning:  Use of undefined constant title - assumed 'title' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:58:18 UTC] PHP Stack trace:
+[18-Aug-2020 08:58:18 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:58:18 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:58:18 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:58:18 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:58:18 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:58:18 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:58:18 UTC] PHP Stack trace:
+[18-Aug-2020 08:58:18 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:58:18 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:58:18 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:58:18 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:58:18 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:58:18 UTC] PHP Warning:  Use of undefined constant title - assumed 'title' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 12
+[18-Aug-2020 08:58:18 UTC] PHP Stack trace:
+[18-Aug-2020 08:58:18 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:58:18 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:58:18 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:58:18 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:58:18 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:58:54 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:58:54 UTC] PHP Stack trace:
+[18-Aug-2020 08:58:54 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:58:54 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:58:54 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:58:54 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:58:54 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:58:54 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:58:54 UTC] PHP Stack trace:
+[18-Aug-2020 08:58:54 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:58:54 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:58:54 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:58:54 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:58:54 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:58:56 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:58:56 UTC] PHP Stack trace:
+[18-Aug-2020 08:58:56 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:58:56 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:58:56 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:58:56 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:58:56 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:58:56 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:58:56 UTC] PHP Stack trace:
+[18-Aug-2020 08:58:56 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:58:56 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:58:56 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:58:56 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:58:56 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:59:02 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:59:02 UTC] PHP Stack trace:
+[18-Aug-2020 08:59:02 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:59:02 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:59:02 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:59:02 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:59:02 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:59:02 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:59:02 UTC] PHP Stack trace:
+[18-Aug-2020 08:59:02 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:59:02 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:59:02 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:59:02 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:59:02 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:59:05 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:59:05 UTC] PHP Stack trace:
+[18-Aug-2020 08:59:05 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:59:05 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:59:05 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:59:05 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:59:05 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 08:59:05 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 08:59:05 UTC] PHP Stack trace:
+[18-Aug-2020 08:59:05 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 08:59:05 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 08:59:05 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 08:59:05 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 08:59:05 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 09:00:32 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 09:00:32 UTC] PHP Stack trace:
+[18-Aug-2020 09:00:32 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 09:00:32 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 09:00:32 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 09:00:32 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 09:00:32 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 09:00:32 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 09:00:32 UTC] PHP Stack trace:
+[18-Aug-2020 09:00:32 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 09:00:32 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 09:00:32 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 09:00:32 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 09:00:32 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 09:00:43 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 09:00:43 UTC] PHP Stack trace:
+[18-Aug-2020 09:00:43 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 09:00:43 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 09:00:43 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 09:00:43 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 09:00:43 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 09:00:43 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 09:00:43 UTC] PHP Stack trace:
+[18-Aug-2020 09:00:43 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 09:00:43 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 09:00:43 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 09:00:43 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 09:00:43 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 09:00:50 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 09:00:50 UTC] PHP Stack trace:
+[18-Aug-2020 09:00:50 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 09:00:50 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 09:00:50 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 09:00:50 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 09:00:50 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 09:00:50 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 09:00:50 UTC] PHP Stack trace:
+[18-Aug-2020 09:00:50 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 09:00:50 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 09:00:50 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 09:00:50 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 09:00:50 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 09:00:51 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 09:00:51 UTC] PHP Stack trace:
+[18-Aug-2020 09:00:51 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 09:00:51 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 09:00:51 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 09:00:51 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 09:00:51 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 09:00:51 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 09:00:51 UTC] PHP Stack trace:
+[18-Aug-2020 09:00:51 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 09:00:51 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 09:00:51 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 09:00:51 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 09:00:51 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 09:00:52 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 09:00:52 UTC] PHP Stack trace:
+[18-Aug-2020 09:00:52 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 09:00:52 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 09:00:52 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 09:00:52 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 09:00:52 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 09:00:52 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 09:00:52 UTC] PHP Stack trace:
+[18-Aug-2020 09:00:52 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 09:00:52 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 09:00:52 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 09:00:52 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 09:00:52 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 09:00:53 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 09:00:53 UTC] PHP Stack trace:
+[18-Aug-2020 09:00:53 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 09:00:53 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 09:00:53 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 09:00:53 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 09:00:53 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 09:00:53 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 09:00:53 UTC] PHP Stack trace:
+[18-Aug-2020 09:00:53 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 09:00:53 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 09:00:53 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 09:00:53 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 09:00:53 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 09:00:54 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 09:00:54 UTC] PHP Stack trace:
+[18-Aug-2020 09:00:54 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 09:00:54 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 09:00:54 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 09:00:54 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 09:00:54 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 09:00:54 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 09:00:54 UTC] PHP Stack trace:
+[18-Aug-2020 09:00:54 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 09:00:54 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 09:00:54 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 09:00:54 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 09:00:54 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 09:08:18 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 09:08:18 UTC] PHP Stack trace:
+[18-Aug-2020 09:08:18 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 09:08:18 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 09:08:18 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 09:08:18 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 09:08:18 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 09:08:18 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 09:08:18 UTC] PHP Stack trace:
+[18-Aug-2020 09:08:18 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 09:08:18 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 09:08:18 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 09:08:18 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 09:08:18 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 09:10:33 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 09:10:33 UTC] PHP Stack trace:
+[18-Aug-2020 09:10:33 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 09:10:33 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 09:10:33 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 09:10:33 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 09:10:33 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 09:10:33 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 09:10:33 UTC] PHP Stack trace:
+[18-Aug-2020 09:10:33 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 09:10:33 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 09:10:33 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 09:10:33 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 09:10:33 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 09:10:34 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 09:10:34 UTC] PHP Stack trace:
+[18-Aug-2020 09:10:34 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 09:10:34 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 09:10:34 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 09:10:34 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 09:10:34 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 09:10:34 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 09:10:34 UTC] PHP Stack trace:
+[18-Aug-2020 09:10:34 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 09:10:34 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 09:10:34 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 09:10:34 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 09:10:34 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 09:11:03 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 09:11:03 UTC] PHP Stack trace:
+[18-Aug-2020 09:11:03 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 09:11:03 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 09:11:03 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 09:11:03 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 09:11:03 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 09:11:03 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 09:11:03 UTC] PHP Stack trace:
+[18-Aug-2020 09:11:03 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 09:11:03 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 09:11:03 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 09:11:03 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 09:11:03 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 09:11:05 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 09:11:05 UTC] PHP Stack trace:
+[18-Aug-2020 09:11:05 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 09:11:05 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 09:11:05 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 09:11:05 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 09:11:05 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 09:11:05 UTC] PHP Warning:  Illegal string offset 'title' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 4
+[18-Aug-2020 09:11:05 UTC] PHP Stack trace:
+[18-Aug-2020 09:11:05 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 09:11:05 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 09:11:05 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 09:11:05 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 09:11:05 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:6
+[18-Aug-2020 11:05:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 9
+[18-Aug-2020 11:07:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 9
+[18-Aug-2020 11:09:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 9
+[18-Aug-2020 11:11:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 9
+[18-Aug-2020 11:15:20 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 11
+[18-Aug-2020 11:15:20 UTC] PHP Stack trace:
+[18-Aug-2020 11:15:20 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 11:15:20 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 11:15:20 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 11:15:20 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 11:15:20 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:7
+[18-Aug-2020 11:15:20 UTC] PHP Warning:  Illegal string offset 'photo' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 11
+[18-Aug-2020 11:15:20 UTC] PHP Stack trace:
+[18-Aug-2020 11:15:20 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 11:15:20 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 11:15:20 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 11:15:20 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 11:15:20 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:7
+[18-Aug-2020 11:15:20 UTC] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php:26
+Stack trace:
+#0 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php(7): pageBanner(Array)
+#1 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php(106): include('/Users/ecosync/...')
+#2 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php(19): require_once('/Users/ecosync/...')
+#3 /Users/ecosync/Local Sites/i-aun-school/app/public/index.php(17): require('/Users/ecosync/...')
+#4 {main}
+  thrown in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 26
+[18-Aug-2020 11:15:21 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 11
+[18-Aug-2020 11:15:21 UTC] PHP Stack trace:
+[18-Aug-2020 11:15:21 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 11:15:21 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 11:15:21 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 11:15:21 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 11:15:21 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:7
+[18-Aug-2020 11:15:21 UTC] PHP Warning:  Illegal string offset 'photo' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 11
+[18-Aug-2020 11:15:21 UTC] PHP Stack trace:
+[18-Aug-2020 11:15:21 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 11:15:21 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 11:15:21 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 11:15:21 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 11:15:21 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:7
+[18-Aug-2020 11:15:21 UTC] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php:26
+Stack trace:
+#0 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php(7): pageBanner(Array)
+#1 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php(106): include('/Users/ecosync/...')
+#2 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php(19): require_once('/Users/ecosync/...')
+#3 /Users/ecosync/Local Sites/i-aun-school/app/public/index.php(17): require('/Users/ecosync/...')
+#4 {main}
+  thrown in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 26
+[18-Aug-2020 11:16:23 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 33
+[18-Aug-2020 11:16:24 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 33
+[18-Aug-2020 11:17:37 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 33
+[18-Aug-2020 11:18:04 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 11
+[18-Aug-2020 11:18:04 UTC] PHP Stack trace:
+[18-Aug-2020 11:18:04 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 11:18:04 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 11:18:04 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 11:18:04 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 11:18:04 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:7
+[18-Aug-2020 11:18:04 UTC] PHP Warning:  Illegal string offset 'photo' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 11
+[18-Aug-2020 11:18:04 UTC] PHP Stack trace:
+[18-Aug-2020 11:18:04 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 11:18:04 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 11:18:04 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 11:18:04 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 11:18:04 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:7
+[18-Aug-2020 11:18:04 UTC] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php:25
+Stack trace:
+#0 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php(7): pageBanner(Array)
+#1 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php(106): include('/Users/ecosync/...')
+#2 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php(19): require_once('/Users/ecosync/...')
+#3 /Users/ecosync/Local Sites/i-aun-school/app/public/index.php(17): require('/Users/ecosync/...')
+#4 {main}
+  thrown in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 25
+[18-Aug-2020 11:18:04 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 11
+[18-Aug-2020 11:18:04 UTC] PHP Stack trace:
+[18-Aug-2020 11:18:04 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 11:18:04 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 11:18:04 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 11:18:04 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 11:18:04 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:7
+[18-Aug-2020 11:18:04 UTC] PHP Warning:  Illegal string offset 'photo' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 11
+[18-Aug-2020 11:18:04 UTC] PHP Stack trace:
+[18-Aug-2020 11:18:04 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:0
+[18-Aug-2020 11:18:04 UTC] PHP   2. require() /Users/ecosync/Local Sites/i-aun-school/app/public/index.php:17
+[18-Aug-2020 11:18:04 UTC] PHP   3. require_once() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php:19
+[18-Aug-2020 11:18:04 UTC] PHP   4. include() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php:106
+[18-Aug-2020 11:18:04 UTC] PHP   5. pageBanner() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php:7
+[18-Aug-2020 11:18:04 UTC] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php:25
+Stack trace:
+#0 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php(7): pageBanner(Array)
+#1 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php(106): include('/Users/ecosync/...')
+#2 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php(19): require_once('/Users/ecosync/...')
+#3 /Users/ecosync/Local Sites/i-aun-school/app/public/index.php(17): require('/Users/ecosync/...')
+#4 {main}
+  thrown in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 25
+[18-Aug-2020 11:18:27 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php:25
+Stack trace:
+#0 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php(7): pageBanner(Array)
+#1 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php(106): include('/Users/ecosync/...')
+#2 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php(19): require_once('/Users/ecosync/...')
+#3 /Users/ecosync/Local Sites/i-aun-school/app/public/index.php(17): require('/Users/ecosync/...')
+#4 {main}
+  thrown in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 25
+[18-Aug-2020 11:18:27 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php:25
+Stack trace:
+#0 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php(7): pageBanner(Array)
+#1 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php(106): include('/Users/ecosync/...')
+#2 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php(19): require_once('/Users/ecosync/...')
+#3 /Users/ecosync/Local Sites/i-aun-school/app/public/index.php(17): require('/Users/ecosync/...')
+#4 {main}
+  thrown in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 25
+[18-Aug-2020 11:18:29 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php:25
+Stack trace:
+#0 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php(7): pageBanner(Array)
+#1 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php(106): include('/Users/ecosync/...')
+#2 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php(19): require_once('/Users/ecosync/...')
+#3 /Users/ecosync/Local Sites/i-aun-school/app/public/index.php(17): require('/Users/ecosync/...')
+#4 {main}
+  thrown in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 25
+[18-Aug-2020 11:18:29 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php:25
+Stack trace:
+#0 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/page.php(7): pageBanner(Array)
+#1 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/template-loader.php(106): include('/Users/ecosync/...')
+#2 /Users/ecosync/Local Sites/i-aun-school/app/public/wp-blog-header.php(19): require_once('/Users/ecosync/...')
+#3 /Users/ecosync/Local Sites/i-aun-school/app/public/index.php(17): require('/Users/ecosync/...')
+#4 {main}
+  thrown in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/functions.php on line 25
+[19-Aug-2020 16:44:54 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/update.php on line 168
+[19-Aug-2020 16:44:54 UTC] PHP Stack trace:
+[19-Aug-2020 16:44:54 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-cron.php:0
+[19-Aug-2020 16:44:54 UTC] PHP   2. do_action_ref_array() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-cron.php:138
+[19-Aug-2020 16:44:54 UTC] PHP   3. WP_Hook->do_action() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/plugin.php:544
+[19-Aug-2020 16:44:54 UTC] PHP   4. WP_Hook->apply_filters() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/class-wp-hook.php:311
+[19-Aug-2020 16:44:54 UTC] PHP   5. wp_version_check() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/class-wp-hook.php:287
+[19-Aug-2020 16:44:54 UTC] PHP   6. trigger_error() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/update.php:168
+[19-Aug-2020 16:44:54 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/update.php on line 403
+[19-Aug-2020 16:44:54 UTC] PHP Stack trace:
+[19-Aug-2020 16:44:54 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-cron.php:0
+[19-Aug-2020 16:44:54 UTC] PHP   2. do_action_ref_array() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-cron.php:138
+[19-Aug-2020 16:44:54 UTC] PHP   3. WP_Hook->do_action() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/plugin.php:544
+[19-Aug-2020 16:44:54 UTC] PHP   4. WP_Hook->apply_filters() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/class-wp-hook.php:311
+[19-Aug-2020 16:44:54 UTC] PHP   5. wp_update_plugins() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/class-wp-hook.php:287
+[19-Aug-2020 16:44:54 UTC] PHP   6. trigger_error() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/update.php:403
+[19-Aug-2020 16:44:54 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/update.php on line 607
+[19-Aug-2020 16:44:54 UTC] PHP Stack trace:
+[19-Aug-2020 16:44:54 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-cron.php:0
+[19-Aug-2020 16:44:54 UTC] PHP   2. do_action_ref_array() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-cron.php:138
+[19-Aug-2020 16:44:54 UTC] PHP   3. WP_Hook->do_action() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/plugin.php:544
+[19-Aug-2020 16:44:54 UTC] PHP   4. WP_Hook->apply_filters() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/class-wp-hook.php:311
+[19-Aug-2020 16:44:54 UTC] PHP   5. wp_update_themes() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/class-wp-hook.php:287
+[19-Aug-2020 16:44:54 UTC] PHP   6. trigger_error() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/update.php:607
+[20-Aug-2020 03:46:15 UTC] PHP Warning:  Error while sending QUERY packet. PID=268 in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/wp-db.php on line 2033
+[20-Aug-2020 03:46:15 UTC] PHP Stack trace:
+[20-Aug-2020 03:46:15 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[20-Aug-2020 03:46:15 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[20-Aug-2020 03:46:15 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[20-Aug-2020 03:46:15 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[20-Aug-2020 03:46:15 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[20-Aug-2020 03:46:15 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[20-Aug-2020 03:46:15 UTC] PHP   7. WP_CLI\Runner->run_command_and_exit() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160
+[20-Aug-2020 03:46:15 UTC] PHP   8. WP_CLI\Runner->run_command() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:394
+[20-Aug-2020 03:46:15 UTC] PHP   9. WP_CLI\Dispatcher\Subcommand->invoke() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:371
+[20-Aug-2020 03:46:15 UTC] PHP  10. call_user_func:{phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:451}() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:451
+[20-Aug-2020 03:46:15 UTC] PHP  11. WP_CLI\Dispatcher\CommandFactory::WP_CLI\Dispatcher\{closure:phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:95-102}() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php:451
+[20-Aug-2020 03:46:15 UTC] PHP  12. call_user_func:{phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:98}() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:98
+[20-Aug-2020 03:46:15 UTC] PHP  13. Core_Command->check_update() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php:98
+[20-Aug-2020 03:46:15 UTC] PHP  14. Core_Command->get_updates() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/core-command/src/Core_Command.php:77
+[20-Aug-2020 03:46:15 UTC] PHP  15. wp_version_check() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/core-command/src/Core_Command.php:1297
+[20-Aug-2020 03:46:15 UTC] PHP  16. set_site_transient() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/update.php:231
+[20-Aug-2020 03:46:15 UTC] PHP  17. update_site_option() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/option.php:1962
+[20-Aug-2020 03:46:15 UTC] PHP  18. update_network_option() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/option.php:1294
+[20-Aug-2020 03:46:15 UTC] PHP  19. update_option() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/option.php:1724
+[20-Aug-2020 03:46:15 UTC] PHP  20. wpdb->update() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/option.php:440
+[20-Aug-2020 03:46:15 UTC] PHP  21. wpdb->query() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/wp-db.php:2338
+[20-Aug-2020 03:46:15 UTC] PHP  22. wpdb->_do_query() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/wp-db.php:1922
+[20-Aug-2020 03:46:15 UTC] PHP  23. mysqli_query() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/wp-db.php:2033
