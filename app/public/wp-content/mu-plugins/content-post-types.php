@@ -9,7 +9,7 @@
             'has_archive' => true,
             'public' => true,
             'labels' => array(
-                'name' => 'Campuss',
+                'name' => 'Campuses',
                 'add_new_item' => 'Add New Campus',
                 'edit_item' => 'Edit Campus',
                 'all_items' => 'All Campuses',

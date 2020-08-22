@@ -87,3 +87,11 @@
 
     add_action('pre_get_posts', 'content_adjust_queries');
 
+    function primarySchoolMapApi($api){
+
+        $api['key'] = 'AIzaSyD5orD6SnOan3U1J3OSsNYTP2NJfwFsqrc';
+        return $api;
+    }
+
+    add_filter('acf/fields/google_map/api', 'primarySchoolMapApi');
+

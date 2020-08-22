@@ -1139,3 +1139,28 @@ Stack trace:
 [20-Aug-2020 03:46:15 UTC] PHP  21. wpdb->query() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/wp-db.php:2338
 [20-Aug-2020 03:46:15 UTC] PHP  22. wpdb->_do_query() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/wp-db.php:1922
 [20-Aug-2020 03:46:15 UTC] PHP  23. mysqli_query() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/wp-db.php:2033
+[21-Aug-2020 03:10:48 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/update.php on line 168
+[21-Aug-2020 03:10:48 UTC] PHP Stack trace:
+[21-Aug-2020 03:10:48 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-cron.php:0
+[21-Aug-2020 03:10:48 UTC] PHP   2. do_action_ref_array() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-cron.php:138
+[21-Aug-2020 03:10:48 UTC] PHP   3. WP_Hook->do_action() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/plugin.php:544
+[21-Aug-2020 03:10:48 UTC] PHP   4. WP_Hook->apply_filters() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/class-wp-hook.php:311
+[21-Aug-2020 03:10:48 UTC] PHP   5. wp_version_check() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/class-wp-hook.php:287
+[21-Aug-2020 03:10:48 UTC] PHP   6. trigger_error() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/update.php:168
+[21-Aug-2020 03:10:48 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/update.php on line 403
+[21-Aug-2020 03:10:48 UTC] PHP Stack trace:
+[21-Aug-2020 03:10:48 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-cron.php:0
+[21-Aug-2020 03:10:48 UTC] PHP   2. do_action_ref_array() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-cron.php:138
+[21-Aug-2020 03:10:48 UTC] PHP   3. WP_Hook->do_action() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/plugin.php:544
+[21-Aug-2020 03:10:48 UTC] PHP   4. WP_Hook->apply_filters() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/class-wp-hook.php:311
+[21-Aug-2020 03:10:48 UTC] PHP   5. wp_update_plugins() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/class-wp-hook.php:287
+[21-Aug-2020 03:10:48 UTC] PHP   6. trigger_error() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/update.php:403
+[21-Aug-2020 03:10:48 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/update.php on line 607
+[21-Aug-2020 03:10:48 UTC] PHP Stack trace:
+[21-Aug-2020 03:10:48 UTC] PHP   1. {main}() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-cron.php:0
+[21-Aug-2020 03:10:48 UTC] PHP   2. do_action_ref_array() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-cron.php:138
+[21-Aug-2020 03:10:48 UTC] PHP   3. WP_Hook->do_action() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/plugin.php:544
+[21-Aug-2020 03:10:48 UTC] PHP   4. WP_Hook->apply_filters() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/class-wp-hook.php:311
+[21-Aug-2020 03:10:48 UTC] PHP   5. wp_update_themes() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/class-wp-hook.php:287
+[21-Aug-2020 03:10:48 UTC] PHP   6. trigger_error() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/update.php:607
+[22-Aug-2020 01:45:40 UTC] PHP Parse error:  syntax error, unexpected '>', expecting end of file in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/header.php on line 31
