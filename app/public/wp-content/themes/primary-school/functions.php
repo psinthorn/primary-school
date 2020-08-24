@@ -35,13 +35,14 @@
         wp_enqueue_style('custom-google-fonts', '//fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i|Roboto:100,300,400,400i,700,700i');
         wp_enqueue_style('fonts-awesome', '//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
         // wp_enqueue_style('primary_main_files', get_stylesheet_uri());
+        wp_enqueue_script('googleMap', '//maps.googleapis.com/maps/api/js?key=AIzaSyD5orD6SnOan3U1J3OSsNYTP2NJfwFsqrc', NULL,'1.0', true );
 
         if (strstr($_SERVER['SERVER_NAME'], 'i-aun-school.local')) {
              wp_enqueue_script('primary-main-js', 'http://localhost:3000/bundled.js', NULL,'1.0', true );
         } else {
             wp_enqueue_script('vendors-js', get_theme_file_uri('/bundled-assets/vendors~scripts.8c97d901916ad616a264.js'), NULL,'1.0', true );
-            wp_enqueue_script('primary-main-js', get_theme_file_uri('/bundled-assets/scripts.cadac3d75c965bd1a20a.js'), NULL,'1.0', true );
-            wp_enqueue_style('main_styles', get_stylesheet_uri('/bundled-assets/styles.cadac3d75c965bd1a20a.css'));
+            wp_enqueue_script('primary-main-js', get_theme_file_uri('/bundled-assets/scripts.156d94720e40348b3454.js'), NULL,'1.0', true );
+            wp_enqueue_style('main_styles', get_stylesheet_uri('/bundled-assets/styles.156d94720e40348b3454.css'));
         }
         
     }
