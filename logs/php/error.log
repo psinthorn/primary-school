@@ -1164,3 +1164,4 @@ Stack trace:
 [21-Aug-2020 03:10:48 UTC] PHP   5. wp_update_themes() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/class-wp-hook.php:287
 [21-Aug-2020 03:10:48 UTC] PHP   6. trigger_error() /Users/ecosync/Local Sites/i-aun-school/app/public/wp-includes/update.php:607
 [22-Aug-2020 01:45:40 UTC] PHP Parse error:  syntax error, unexpected '>', expecting end of file in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/header.php on line 31
+[22-Aug-2020 09:36:22 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /Users/ecosync/Local Sites/i-aun-school/app/public/wp-content/themes/primary-school/single-campus.php on line 4
